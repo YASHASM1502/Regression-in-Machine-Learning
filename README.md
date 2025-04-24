@@ -1,5 +1,5 @@
 # Regression-in-Machine-Learning
-regression_models
+Regression_models
 1. linear_regression.py
 2. polynomial_regression.py
 3. ridge_lasso_regression.py
